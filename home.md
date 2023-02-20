@@ -1,8 +1,8 @@
 ---
 title: Welcome
-description: The Front Page of Everything
+description: All the Configs!
 published: true
-date: 2023-02-20T15:40:14.778Z
+date: 2023-02-20T15:52:16.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T21:25:08.112Z
