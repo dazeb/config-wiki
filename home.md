@@ -2,13 +2,16 @@
 title: Welcome
 description: The Front Page of Everything
 published: true
-date: 2023-02-20T15:35:51.556Z
+date: 2023-02-20T15:40:14.778Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T21:25:08.112Z
 ---
 
 # Welcome to config.wiki™️
+> This site runs on Wiki.js!
+{.is-success}
+
 Config.wiki is a powerful content platform running on Wiki.js.
 
 Our unlimited installations allows for scalability and wikis with unimaginable sizes.
