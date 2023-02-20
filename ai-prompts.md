@@ -2,7 +2,7 @@
 title: Welcome
 description: All the Configs!
 published: true
-date: 2023-02-20T22:44:39.554Z
+date: 2023-02-20T22:45:09.397Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T21:25:40.558Z
@@ -19,4 +19,4 @@ dateCreated: 2023-02-20T21:25:40.558Z
 
 
 #### Codex
-[Codex Prompts](/ai-prompts/chatgpt/prompts-prompt-engineering)
+[Codex Prompts](/ai-prompts/codex/codex-prompts)
