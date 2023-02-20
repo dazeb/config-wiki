@@ -2,7 +2,7 @@
 title: Welcome
 description: All the Configs!
 published: true
-date: 2023-02-20T16:29:42.384Z
+date: 2023-02-20T17:54:59.980Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T21:25:08.112Z
@@ -31,3 +31,11 @@ To become an editor simply click the page edit button and make changes. The chan
 - **Social Links** - Sharing / Printing Links for the current page.
 - **Edit Page / Page Actions** - Quick access menu to edit or perform other actions on the current page.
 {.grid-list .body-2}
+
+# Markdown Tips
+Click the question mark icon to open the markdown helper.
+![markdown-edit.png](/images/wiki-images/markdown-edit.png)
+
+### The markdown helper will open showing quick access to all markdown commands.
+
+![markdown-hints.png](/images/wiki-images/markdown-hints.png)
