@@ -2,7 +2,7 @@
 title: Welcome
 description: All the Configs!
 published: true
-date: 2023-02-20T15:52:16.110Z
+date: 2023-02-20T16:29:42.384Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T21:25:08.112Z
@@ -21,3 +21,13 @@ On the left you will find links that link to more links with specific informatio
 # Become an editor
 
 To become an editor simply click the page edit button and make changes. The changes will switch your account to editor.
+
+### Per Page
+- **Page Actions** - List of actions on the current page, such as Edit, Move, Delete, History, etc.
+- **Breadcrumbs** - Full Path to the current page. Represents the folder structure.
+- **Table of Contents** - Sections of the current page. Based on the headers in the content.
+- **Page Tags** - Tags associated to the current page. See related pages by clicking on a tag.
+- **Author** - View the author and date of the last modification of the page.
+- **Social Links** - Sharing / Printing Links for the current page.
+- **Edit Page / Page Actions** - Quick access menu to edit or perform other actions on the current page.
+{.grid-list .body-2}
