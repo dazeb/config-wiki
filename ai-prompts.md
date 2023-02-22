@@ -2,7 +2,7 @@
 title: Welcome
 description: All the Configs!
 published: true
-date: 2023-02-20T22:45:09.397Z
+date: 2023-02-22T13:39:47.447Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T21:25:40.558Z
